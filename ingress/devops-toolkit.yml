@@ -16,7 +16,7 @@ spec:
           service:
             name: devops-toolkit
             port:
-              number: 8080
+              number: 80
 
 ---
 
